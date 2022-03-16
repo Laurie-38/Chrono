@@ -160,9 +160,9 @@ stop.onclick = function () {
 
 reset.onclick = function () {
   h1.textContent = "00:00:00";
-  seconds = 0;
-  minutes = 0;
-  hours = 0;
+  sec = 0;
+  min = 0;
+  hrs = 0;
 };
 },{}],"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
