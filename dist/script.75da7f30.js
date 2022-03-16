@@ -139,7 +139,8 @@ function tick() {
       hrs++;
     }
   }
-}
+} //correction
+
 
 function add() {
   tick();
